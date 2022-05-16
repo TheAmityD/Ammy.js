@@ -8,17 +8,15 @@ export default {
     callback: ({}) => {
         const embed = new MessageEmbed()
             .setTitle('Kolej GENIUS@Pintar Negara')
-            .setDescription('Dunno')
+            .setDescription('That one gifted school in Malaysia!')
             .setColor('#800000')
-            .setAuthor('Me')
-            .setFooter('Git em!')
             .addFields([{
-                name: 'name',
-                value: 'value',
+                name: 'Hecc yeah!',
+                value: 'Now we got business!!!',
             },
             {
-                name: 'twooo',
-                value: 'twooo',
+                name: 'aaaa',
+                value: 'aaaa',
             },
         ])
         .addField('y','n')
